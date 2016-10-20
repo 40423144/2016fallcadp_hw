@@ -1,0 +1,40 @@
+[submodule "g2"]
+	path = g2
+	url = https://github.com/40423101/2016fallcadp_ag2.git
+	branch = gh-pages
+[submodule "g3"]
+	path = g3
+	url = https://github.com/40423105/2016fallcadp_ag03.git
+	branch = gh-pages
+[submodule "g4"]
+	path = g4
+	url = https://github.com/40423106/2016fallcadp_ag4.git
+	branch = gh-pages
+[submodule "g8"]
+	path = g8
+	url = https://github.com/40423123/2016fallcadpa_ag8.git
+	branch = gh-pages
+[submodule "g10"]
+	path = g10
+	url = https://github.com/40423141/2016fallcadp_ag10.git
+	branch = gh-pages
+[submodule "g1"]
+	path = g1
+	url = https://github.com/40223103/2016fallcadp_ag1.git
+	branch = gh-pages
+[submodule "g5"]
+	path = g5
+	url = https://github.com/40423109/2016fallcadp_ag5.git
+	branch = gh-pages
+[submodule "g9"]
+	path = g9
+	url = https://github.com/40423126/2016fallcadp_ag9.git
+	branch = gh-pages
+[submodule "g6"]
+	path = g6
+	url = https://github.com/40423112/2016fallcadp_ag6.git
+	branch = gh-pages
+[submodule "g7"]
+	path = g7
+	url = https://github.com/g0910841123/2016fallcadp_ag7.git
+	branch = gh-pages
