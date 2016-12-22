@@ -132,9 +132,14 @@
 <v t="amd.20151216001126.1"><vh>md 檔案範例</vh></v>
 <v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
 <v t="amd.20160106093454.1" a="E"><vh>翰 所寫的網誌文章</vh>
+<v t="leo.20161222154941.1" a="E"><vh>201612</vh>
+<v t="leo.20161222155420.1"><vh>@edit 20161222.md</vh></v>
+</v>
+<v t="leo.20161222154900.1" a="E"><vh>201611</vh>
+<v t="leo.20161222154900.3"><vh>@edit 20161117.md</vh></v>
+</v>
 <v t="amd.20160727114506.1" a="E"><vh>201609</vh>
 <v t="amd.20160727120222.1"><vh>@edit 20160921.md</vh></v>
-<v t="leo.20161117162443.1"><vh>@edit 20161117.md</vh></v>
 </v>
 </v>
 </v>
@@ -702,6 +707,8 @@ make.start()
 
 &lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
+<t tx="leo.20161222154900.1"></t>
+<t tx="leo.20161222154941.1"></t>
 <t tx="yen.20161016024324.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
