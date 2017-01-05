@@ -280,13 +280,8 @@ print("hello")
 Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 &lt;/small&gt;
 
-[甲班電腦輔助設計實習課程網誌](https://mdecourse.github.io/2016fallcadpa/blog)
+[我的網誌](https://40423144.github.io/2016fallcadp_hw/blog/index.html)
 
-[乙班電腦輔助設計實習課程網誌](https://mdecourse.github.io/2016fallcadpb/blog)
-
-[Vimeo 上課影片](https://vimeo.com/user24079973/videos)
-
-[電腦輔助設計室電腦硬體](http://project.mde.tw/blog/yen-dian-nao-fu-zhu-she-ji-shi-dian-nao-pei-zhi.html)
 </t>
 <t tx="amd.20161004112026.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
